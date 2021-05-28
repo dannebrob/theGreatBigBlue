@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ecstatic-mayer-994472.netlify.app/post/</loc>
-    <lastmod>2021-05-28T08:27:46+02:00</lastmod>
+    <loc>https://ecstatic-mayer-994472.netlify.app/post/live-on-github/</loc>
+    <lastmod>2021-05-28T09:32:19+02:00</lastmod>
   </url><url>
-    <loc>https://ecstatic-mayer-994472.netlify.app/post/second-post/</loc>
-    <lastmod>2021-05-28T08:27:46+02:00</lastmod>
+    <loc>https://ecstatic-mayer-994472.netlify.app/post/</loc>
+    <lastmod>2021-05-28T09:32:19+02:00</lastmod>
   </url><url>
     <loc>https://ecstatic-mayer-994472.netlify.app/</loc>
+    <lastmod>2021-05-28T09:32:19+02:00</lastmod>
+  </url><url>
+    <loc>https://ecstatic-mayer-994472.netlify.app/post/second-post/</loc>
     <lastmod>2021-05-28T08:27:46+02:00</lastmod>
   </url><url>
     <loc>https://ecstatic-mayer-994472.netlify.app/post/hello-world/</loc>

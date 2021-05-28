@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The Blog From Daniel Brobäck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 May 2021 08:27:46 +0200</lastBuildDate><atom:link href="https://ecstatic-mayer-994472.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 09:32:19 +0200</lastBuildDate><atom:link href="https://ecstatic-mayer-994472.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live on Github</title>
+      <link>https://ecstatic-mayer-994472.netlify.app/post/live-on-github/</link>
+      <pubDate>Fri, 28 May 2021 09:32:19 +0200</pubDate>
+      
+      <guid>https://ecstatic-mayer-994472.netlify.app/post/live-on-github/</guid>
+      <description>No you can look at my site hosted on Netify</description>
+    </item>
+    
     <item>
       <title>Second Post</title>
       <link>https://ecstatic-mayer-994472.netlify.app/post/second-post/</link>
