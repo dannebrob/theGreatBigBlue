@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ecstatic-mayer-994472.netlify.app/post/</loc>
     <lastmod>2021-05-28T08:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://ecstatic-mayer-994472.netlify.app/post/second-post/</loc>
     <lastmod>2021-05-28T08:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/second-post/</loc>
+    <loc>https://ecstatic-mayer-994472.netlify.app/</loc>
     <lastmod>2021-05-28T08:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/hello-world/</loc>
+    <loc>https://ecstatic-mayer-994472.netlify.app/post/hello-world/</loc>
     <lastmod>2021-05-28T08:21:16+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ecstatic-mayer-994472.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ecstatic-mayer-994472.netlify.app/tags/</loc>
   </url>
 </urlset>
