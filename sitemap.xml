@@ -4,18 +4,30 @@
   <url>
     <loc>https://danielbroback.netlify.app/post/navbar/</loc>
     <lastmod>2021-05-29T12:46:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://danielbroback.netlify.app/post/</loc>
     <lastmod>2021-05-29T12:46:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://danielbroback.netlify.app/</loc>
     <lastmod>2021-05-29T12:46:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://danielbroback.netlify.app/post/centeranything/</loc>
     <lastmod>2021-05-28T09:32:19+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://danielbroback.netlify.app/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://danielbroback.netlify.app/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
