@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Blog From Daniel Brobäck</title>
+    <title>Posts on The Blog of Daniel Brobäck</title>
     <link>https://danielbroback.netlify.app/post/</link>
-    <description>Recent content in Posts on The Blog From Daniel Brobäck</description>
+    <description>Recent content in Posts on The Blog of Daniel Brobäck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 May 2021 09:32:19 +0200</lastBuildDate><atom:link href="https://danielbroback.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 12:46:34 +0200</lastBuildDate><atom:link href="https://danielbroback.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navbar Example</title>
+      <link>https://danielbroback.netlify.app/post/navbar/</link>
+      <pubDate>Sat, 29 May 2021 12:46:34 +0200</pubDate>
+      
+      <guid>https://danielbroback.netlify.app/post/navbar/</guid>
+      <description>Hello friends!
+All web applications need some kind of navigation, right? In my opinion, good navigation makes all the difference for the user experience. This differs of course from what the goal of that design is.
+So here&amp;rsquo;s an example of simple navigation. Only HTML and CSS. My goal was to keep the design simple. There are no animations used in this example.
+I often find that view width (vw) and view height (vh) are useful to make text, padding, margins the right size when you need a responsive web application.</description>
+    </item>
+    
     <item>
       <title>How-To: Center anything with Flexbox</title>
       <link>https://danielbroback.netlify.app/post/centeranything/</link>
